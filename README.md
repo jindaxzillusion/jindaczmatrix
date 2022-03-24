@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @jzhang9632
+<br>
 💻 I’m interested in Software Engineering, Artifical Intelligence, Statistics
+<br>
 🌱 I’m currently learning Data Structure and Algorithm, and JavaScript
+<br>
 📫 Let's Connnect: yuuuno32 AT gmail.com
