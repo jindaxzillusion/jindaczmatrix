@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **jzhang9632/jzhang9632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @jzhang9632
+💻 I’m interested in Software Engineering, Artifical Intelligence, Statistics
+🌱 I’m currently learning Data Structure and Algorithm, and JavaScript
+📫 Let's Connnect: yuuuno32 AT gmail.com
