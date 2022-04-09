@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Jinda(Cecil) Zhang
+👋 Hi, I’m Jinda(Cecil) Z.
 <br>
 💻 I’m interested in Software Engineering, Artifical Intelligence, Statistics
 <br>
