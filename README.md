@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jzhang32&label=Profile%20views&color=0e75b6&style=flat" alt="jzhang32" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jzhang32" alt="jzhang32" /></a> </p>
+
 
 - 🔭 I’m currently working on [Udevu.dev web project](https://udevu-work-1.glitch.me/)
 
