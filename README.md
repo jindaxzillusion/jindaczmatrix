@@ -1,11 +1,3 @@
-👋 Hi, I’m Jinda(Cecil) Z, Software Engineer @100devs
-<br>
-💻 I’m interested in Software Engineering, Artifical Intelligence, Statistics
-<br>
-🌱 I’m currently learning Data Structure and Algorithm, and JavaScript
-<br>
-📫 Let's Connnect: yuuuno32 AT gmail.com
-
 <h1 align="center">Hi 👋, I'm Jinda(Cecil) Z.</h1>
 <h3 align="center">A Creative, detail-oriented, software engineer with a deep interest in software development, AI, ML. Proven track record of creating and implementing successful front and back-end applications. Looking to bring my skills to a tech company with global reach.</h3>
 
