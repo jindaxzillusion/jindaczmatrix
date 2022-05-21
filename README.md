@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Golang**
 
-- 👨‍💻 All of my projects are available at [https://jindaz32.netlify.app/](https://jindaz32.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jindacz.github.io/](https://jindacz.github.io/)
 
 - 💬 Ask me about **Python, Javascript, Java**
 
