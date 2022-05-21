@@ -20,7 +20,6 @@
 
 <h3 align="center">A Creative, detail-oriented, software engineer with a deep interest in software development, AI, ML. Proven track record of creating and implementing successful front and back-end applications. Looking to bring my skills to a tech company with global reach.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jzhang32&label=Profile%20views&color=0e75b6&style=flat" alt="jzhang32" /> </p>
 
 
 
