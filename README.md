@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **yuuuno32@gmail.com**
 
-- 📄 Know about my experiences [</>](</>)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am interested in reading, sports, and playing chess.**
 - See [my website](jindacz.github.io) for more information!
