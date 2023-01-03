@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jinda(Cecil) Z.</h1>
+<h1 align="center">Hi 👋, I'm Jinda(Justin) Zhang</h1>
 
 <p align="center">
   <a href="https://jindacz.github.io" target="_blank">
