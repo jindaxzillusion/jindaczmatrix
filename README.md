@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Python, Javascript, Java**
 
-- 📫 How to reach me **yuuuno32@gmail.com**
+- 📫 How to reach me **jindaz.work@outlook.com**
 
 - 📄 Know about my experiences 
 
