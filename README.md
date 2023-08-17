@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/jindacz" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/jindaz32" target="_blank">
+  <a href="https://twitter.com/cvpriccvnips" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/jindacz" target="_blank">
@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on [Udevu.dev web project](https://udevu-work-1.glitch.me/)
 
-- 🌱 I’m currently learning **Bootstrap, Golang**
+- 🌱 I’m currently learning **NLP, Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://jindacz.github.io/](https://jindacz.github.io/)
 
@@ -36,7 +36,7 @@
 - 📄 Know about my experiences 
 
 - ⚡ Fun fact **I am interested in reading, sports, and playing chess.**
-- See [my website](jindacz.github.io) for more information!
+- See [my website](https://cvpriccvnips.github.io/) for more information!
 
 
 
