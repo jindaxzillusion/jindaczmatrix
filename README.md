@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinda(Justin) Zhang</h1>
 
 <p align="center">
-  <a href="https://jindacz.github.io" target="_blank">
+  <a href="https://cvpriccvnips.github.io" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jindacz" target="_blank">
