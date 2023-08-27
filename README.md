@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **NLP, Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://jindacz.github.io/](https://jindacz.github.io/)
+- 👨‍💻 All of my projects are available at [https://cvpriccvnips.github.io/](https://jindacz.github.io/)
 
 - 💬 Ask me about **Python, Javascript, Java**
 
