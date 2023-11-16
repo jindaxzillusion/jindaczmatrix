@@ -29,8 +29,8 @@
 <h1 align="center">Connect</h1>
 
 <p align="center">
-  <a href="jindacz.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="mailto:jindaz.work@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Email&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 <!--   <a href="https://www.linkedin.com/in/jindacz" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
